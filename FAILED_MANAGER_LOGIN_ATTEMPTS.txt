@@ -1,0 +1,2 @@
+Mon Dec 09 12:45:53 EST 2019
+Failed attempt was made to login to inventory login with pin: 2

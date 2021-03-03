@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+--><Products>
+    <Product>
+        <id>1</id>
+        <name>Bread</name>
+        <price>0.25</price>
+        <amountOfProduct>9000</amountOfProduct>
+        <fullNum>10000</fullNum>
+    </Product>
+    
+    <Product>
+        <id>2</id>
+        <name>Beef</name>
+        <price>2.0</price>
+        <amountOfProduct>10000</amountOfProduct>
+        <fullNum>20000</fullNum>
+    </Product>
+    
+    <Product>
+        <id>3</id>
+        <name>Chicken</name>
+        <price>1.5</price>
+        <amountOfProduct>9000</amountOfProduct>
+        <fullNum>10000</fullNum>
+    </Product>
+    
+    <Product>
+        <id>4</id>
+        <name>Water</name>
+        <price>0.001</price>
+        <amountOfProduct>10000</amountOfProduct>
+        <fullNum>10000</fullNum>
+    </Product>
+    
+    <Product>
+        <id>5</id>
+        <name>Fruit</name>
+        <price>0.75</price>
+        <amountOfProduct>4000</amountOfProduct>
+        <fullNum>5000</fullNum>
+    </Product>
+    
+    <Product>
+        <id>6</id>
+        <name>Vegtables</name>
+        <price>0.85</price>
+        <amountOfProduct>5000</amountOfProduct>
+        <fullNum>5000</fullNum>
+    </Product>
+    
+    <Product>
+        <id>7</id>
+        <name>Spices</name>
+        <price>0.5</price>
+        <amountOfProduct>10000</amountOfProduct>
+        <fullNum>10000</fullNum>
+    </Product>    
+</Products>

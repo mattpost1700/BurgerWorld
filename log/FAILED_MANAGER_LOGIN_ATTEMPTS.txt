@@ -1,0 +1,9 @@
+Mon Dec 09 12:53:57 EST 2019
+Failed attempt was made to login to inventory login with pin: 123
+
+Mon Dec 09 17:03:41 EST 2019
+Failed attempt was made to login to inventory login with pin: 123
+
+Tue Dec 10 15:52:57 EST 2019
+Failed attempt was made to login to inventory login with pin: 123
+
